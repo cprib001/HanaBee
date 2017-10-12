@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belly of the Whale (1)", "Belly of the Whale (1).csproj", "{B2C5B659-B3EC-7987-18E8-D03FF1464599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belly of the Whale (1).Editor", "Belly of the Whale (1).Editor.csproj", "{02C6682D-9EA1-0E43-D942-0FF9673E76E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C5B659-B3EC-7987-18E8-D03FF1464599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C5B659-B3EC-7987-18E8-D03FF1464599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C5B659-B3EC-7987-18E8-D03FF1464599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C5B659-B3EC-7987-18E8-D03FF1464599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C6682D-9EA1-0E43-D942-0FF9673E76E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C6682D-9EA1-0E43-D942-0FF9673E76E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C6682D-9EA1-0E43-D942-0FF9673E76E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C6682D-9EA1-0E43-D942-0FF9673E76E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

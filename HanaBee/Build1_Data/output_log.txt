@@ -1,0 +1,47 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lgnpr\OneDrive\Documents\HanaBee\HanaBee\Build1_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.503905 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.891072 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 4.325932 ms (FindLiveObjects: 0.111012 ms CreateObjectMapping: 0.063605 ms MarkObjects: 0.963162 ms  DeleteObjects: 3.184597 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.407212 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 570.
+Total: 7.548456 ms (FindLiveObjects: 0.115753 ms CreateObjectMapping: 0.064000 ms MarkObjects: 2.034176 ms  DeleteObjects: 5.332551 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.912198 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 604.
+Total: 7.375814 ms (FindLiveObjects: 0.045827 ms CreateObjectMapping: 0.041086 ms MarkObjects: 0.774717 ms  DeleteObjects: 6.513393 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ed8 -> priority: 1 
